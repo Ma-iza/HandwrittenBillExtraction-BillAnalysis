@@ -1,0 +1,13 @@
+Receipt ID,Vendor,Date,Amount,Currency,Gst,Invoice no
+receipt1,Fresco Electrical& Hardwares,2026-07-15,360,Rs,null,799
+receipt2,Boban &Molly Agencies,2026-03-28,2000,Rs,null,88469
+receipt3,Benny P.D,2026-06-24,540,Rs,null,1498
+receipt4,Fresco Electrical& Hardwares,2026-05-23,370,Rs,null,263
+receipt5,Boban &Molly Agencies,2026-04-20,2000,Rs,null,86916
+receipt6,Benny P.D,2026-04-21,680,Rs,null,1789
+receipt7,Boban &Molly Agencies,2026-04-19,2000,Rs,null,86938
+receipt8,Benny P.D,2026-04-13,520,Rs,null,1775
+receipt9,Benny P.D,2026-04-11,240,Rs,null,1769
+receipt10,Shalom Mattress,2026-05-19,2000,Rs,null,EKM214
+receipt11,Boban &Molly Agencies,2026-06-19,2000,Rs,null,89945
+receipt12,Fresco Electrical& Hardwares,2026-05-15,150,Rs,null,498
