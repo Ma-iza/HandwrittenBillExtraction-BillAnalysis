@@ -1,0 +1,8 @@
+pandas
+numpy
+rapidfuzz
+python-dotenv
+requests
+openai
+groq
+cohere
