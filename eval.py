@@ -112,17 +112,17 @@ for model_name,outputs_folder in model_outputs.items():
     MODEL_USAGE = {
     "Nemotron Nano 12B VL": {
         "tokens": 129000,
-        "price_per_million": 0.24   # fill from OpenRouter pricing
+        "price_per_million": 0.24   #from OpenRouter pricing
     },
 
     "Command-A-Vision-07-2025": {
         "tokens": 121000,
-        "price_per_million": 12.50   # fill from Cohere pricing
+        "price_per_million": 12.50   #from Cohere pricing
     },
 
     "Qwen3.6-27B": {
         "tokens": 16100,
-        "price_per_million": 0.90   # fill from Groq pricing
+        "price_per_million": 0.90   #from Groq pricing
     }
 }
 
