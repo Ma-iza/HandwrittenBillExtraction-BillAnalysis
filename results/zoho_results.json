@@ -1,0 +1,74 @@
+[
+    {
+        "receipt": 1,
+        "vendor": "FRESCO ELECTRICALS & HARDWARES",
+        "amount": "360",
+        "status": "The expense has been recorded."
+    },
+    {
+        "receipt": 2,
+        "vendor": "BOBAN & MOLY AGENCIES",
+        "amount": "2000",
+        "status": "The expense has been recorded."
+    },
+    {
+        "receipt": 3,
+        "vendor": "BENNY P.D. PURIFIED DRINKING WATER",
+        "amount": "540",
+        "status": "The expense has been recorded."
+    },
+    {
+        "receipt": 4,
+        "vendor": "FRESCO ELECTRICALS & HARDWARES",
+        "amount": "370",
+        "status": "The expense has been recorded."
+    },
+    {
+        "receipt": 5,
+        "vendor": "BOBAN & MOLY AGENCIES",
+        "amount": "7000",
+        "status": "The expense has been recorded."
+    },
+    {
+        "receipt": 6,
+        "vendor": "BENNY P.D. PURIFIED DRINKING WATER Enumathala P.O., Choonidy, Mob : 9947004547",
+        "amount": "680",
+        "status": "The expense has been recorded."
+    },
+    {
+        "receipt": 7,
+        "vendor": "BOBAN & MOLY AGENCIES",
+        "amount": "2000",
+        "status": "The expense has been recorded."
+    },
+    {
+        "receipt": 8,
+        "vendor": "BENNY P.D. PURIFIED DRINKING WATER",
+        "amount": "520",
+        "status": "The expense has been recorded."
+    },
+    {
+        "receipt": 9,
+        "vendor": "BENNY P.D. PURIFIED DRINKING WATER",
+        "amount": "240",
+        "status": "The expense has been recorded."
+    },
+    {
+        "receipt": 10,
+        "vendor": "SHALOM MATTRESS",
+        "amount": "2000",
+        "status": "The expense has been recorded."
+    },
+    {
+        "receipt": 11,
+        "vendor": "BOBAN & MOLY AGENCIES",
+        "amount": "2000",
+        "status": "The expense has been recorded."
+    },
+    {
+        "receipt": 12,
+        "vendor": "FRESCO ELECTRICALS & HARDWARES",
+        "amount": "150",
+        "status": "The expense has been recorded."
+    }
+]
