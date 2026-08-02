@@ -38,25 +38,23 @@ The framework evaluates:
 
 ---
 
-## Running the Evaluation
+## Setup
 
-1. Clone the repository.
+1. Clone the repository
 
-```bash
-git clone <repository-url>
-```
+git clone <repo-url>
 
-2. Install dependencies.
+2. Install dependencies
 
-```bash
 pip install -r requirements.txt
-```
 
-3. Run the evaluation script.
+3. Add API keys
 
-```bash
+Create a .env file using .env.example as reference.
+
+4. Run evaluation
+
 python eval.py
-```
 
 The script generates field-wise accuracy results for each evaluated model.
 
